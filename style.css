@@ -1,0 +1,103 @@
+header{
+    background-color:  LightBlue;
+    height: 150px;
+    color:Navy;
+    margin-left: 60px;
+    margin-right: 79px;
+}
+
+
+#t1{
+    text-align: end;
+    margin-top: -40px;
+    margin-right: 100px;
+    font-size: xx-large;
+}
+a{
+    margin: 25px 10px;
+}
+
+#f1{
+    background-color: #DDDDDD;
+    width: 1748px;
+    margin-left: 60px;
+}
+
+
+body{
+    background-color: #EEEEEE;
+}
+
+
+
+label{
+    margin-left: 60px;
+    color:navy;
+}
+
+
+h1{
+    margin-left: 60px;
+    color:navy;
+}
+
+
+#in{
+    width: 300px;
+    height: 200px;
+}
+
+
+#qq{
+    margin-left: 130px;
+    color: navy;
+}
+
+
+
+
+
+#reset{
+margin-left: 130px;
+color: navy;
+}
+
+h3{
+    margin-left: 130px;
+    color: navy;
+}
+
+
+
+#sum{
+color: navy;
+}
+
+
+
+
+#au{
+background-color: LightBlue;
+text-align: end;
+height: 50px;
+margin-left:60px ;
+margin-right:79px ;
+}
+
+
+#q1{
+    margin-left: 5px;
+}
+
+
+
+#q2{
+    margin-left: 22px;
+}
+
+
+
+
+#q3{
+    margin-left: 39px;
+}
